@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9111708-b4a2-40c7-bd82-3c68ad9bfd5c" name="Default Changelist" comment="">
+    <list default="true" id="b9111708-b4a2-40c7-bd82-3c68ad9bfd5c" name="Default Changelist" comment="Recorded time, nodes, and arc revisions and print them out at the end of the program">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MACSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MACSolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compile.sh" beforeDir="false" afterPath="$PROJECT_DIR$/compile.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS4402-P2-Solver/BinaryCSP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS4402-P2-Solver/BinaryCSPReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS4402-P2-Solver/BinaryConstraint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS4402-P2-Solver/BinaryTuple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS4402-P2-Solver/DomainEmptyException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS4402-P2-Solver/FCSolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS4402-P2-Solver/Heuristic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS4402-P2-Solver/MACSolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS4402-P2-Solver/Solver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryCSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryCSP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/BinaryCSP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/BinaryCSPReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/BinaryConstraint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/BinaryTuple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/DomainEmptyException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/FCSolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/Heuristic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/MACSolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/Solver.class" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,76 +34,6 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/CS4402_P2_Solver$BinaryCSPReader.ic" NAME="BinaryCSPReader Coverage Results" MODIFIED="1588268939890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FCSolver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MACSolver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BinaryCSPReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BinaryCSP.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BinaryConstraint.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="53" column="7" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BinaryTuple.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -121,11 +71,15 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="-1" />
     <option name="width" value="1920" />
     <option name="height" value="520" />
   </component>
+  <component name="ProjectId" id="2IDsiZy9eEoeQ3LRvtFVwe5OoaW" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -156,24 +110,23 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588354404615" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
   <component name="RunManager">
     <configuration name="BinaryCSPReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinaryCSPReader" />
@@ -189,6 +142,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -204,6 +158,8 @@
       <workItem from="1588317593685" duration="9846000" />
       <workItem from="1588335895179" duration="6906000" />
       <workItem from="1588356099462" duration="33000" />
+      <workItem from="1669727619659" duration="144000" />
+      <workItem from="1669727999568" duration="1956000" />
     </task>
     <task id="LOCAL-00001" summary="Ascending is fine in this state, need to fix issue with smallest domain first.">
       <created>1588260807480</created>
@@ -318,7 +274,18 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ascending is fine in this state, need to fix issue with smallest domain first." />
@@ -332,6 +299,10 @@
     <MESSAGE value="Added args to select algorithm and strategy" />
     <MESSAGE value="Recorded time, nodes, and arc revisions and print them out at the end of the program" />
     <option name="LAST_COMMIT_MESSAGE" value="Recorded time, nodes, and arc revisions and print them out at the end of the program" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Heuristic.java">
